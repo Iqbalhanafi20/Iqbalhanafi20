@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Laravel & Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- IG : @iqbalfralamp
 
 <!---
 Iqbalhanafi20/Iqbalhanafi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
